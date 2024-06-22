@@ -22,9 +22,9 @@ export default function Padrinhos() {
         </h1>
         <p>
           <span className="text-gray-500">
-            Para que você fique ainda mais elegante, neste dia gostaríamos que
-            usasse uma camisa branca, calça bege, tenis branco e suspensório com
-            a gravata verde que lhe entregamos.
+           Queremos que se sinta lindo nesse dia, para tanto, pedimos apenas que escolha um terno
+           de cor cinza, camisa social branca, a gravata
+           que estamos te enviando, e um sapato social preto.
           </span>
         </p>
       </div>

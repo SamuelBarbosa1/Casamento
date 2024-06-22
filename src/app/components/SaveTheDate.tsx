@@ -29,13 +29,13 @@ export default function SaveTheDate() {
         <div className="flex justify-center">
           <AddToCalendarButton
             label="Adicionar ao calendário"
-            name="Casamento - Dai e Mateus"
+            name="Casamento - Ludmilla e Jesse"
             options={["Google", "Outlook.com", "Apple", "Microsoft365"]}
-            location="Curitiba"
-            startDate="2023-11-24"
-            endDate="2023-11-24"
-            startTime="17:15"
-            endTime="23:00"
+            location="Brasilia"
+            startDate="2024-09-08"
+            endDate="2024-09-08"
+            startTime="16:00"
+            endTime="20:00"
             timeZone="America/Sao_Paulo"
             size="3"
           ></AddToCalendarButton>

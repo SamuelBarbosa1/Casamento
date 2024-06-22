@@ -9,7 +9,7 @@ export default function Navbar() {
             className="text-gray-500 font-bold text-lg cursor-pointer"
             style={{ fontFamily: "brittany" }}
           >
-            Daillayne e Mateus
+            Ludmilla e Jessé
           </span>
         </Link>
       </div>
