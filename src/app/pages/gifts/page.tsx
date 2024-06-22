@@ -1,4 +1,4 @@
-
+import GiftCard from "@/app/components/GiftCard";
 import { getData } from "@/app/services/firebase";
 import Navbar from "../../components/Navbar";
 
@@ -30,6 +30,10 @@ export default async function Gifts() {
           </p>
 
           <div className="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 gap-4 mt-11">
+            {gifts &&
+              gifts.map((gift: any) => (
+                <GiftCard key={gift.id} {...gift}></GiftCard>
+              ))}
           </div>
         </div>
       </div>

@@ -9,7 +9,7 @@ export default function Cronometro() {
   const [seconds, setSeconds] = useState(0);
 
   useEffect(() => {
-    const target = new Date("11/24/2023 16:59:59");
+    const target = new Date("09/08/2024 16:00:00");
 
     const interval = setInterval(() => {
       const now = new Date();

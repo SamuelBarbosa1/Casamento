@@ -12,14 +12,14 @@ export default function Madrinhas() {
         </h1>
         <ul className="space-y-4 px-6">
           {[
-            "Confirme sua presença, se caso não puder comparecer, <span className='font-bold'> avise!</span>",
-            "Por favor, não levem pessoas que não foram convidadas;",
-            "Não chegue atrasado!",
-            "Lembre-se: branco é a cor da noiva;",
-            "Verde oliva é a cor das madrinhas;",
-            "Marsala é a cor das mães;",
-            "Seu celular é bem-vindo, tire muitas fotos, mas cuidado para não atrapalhar o fotografo;",
-            "E não menos importante, divirta-se muito com a gente nessa data tão importante",
+        "Confirme sua presença, se caso não puder comparecer, <span className='font-bold'> avise!</span>",
+        "Por favor, não levem pessoas que não foram convidadas;",
+        "Não chegue atrasado!",
+        "Lembre-se: branco é a cor da noiva;",
+        "Verde oliva é a cor das madrinhas;",
+        "Marsala é a cor das mães;",
+        "Seu celular é bem-vindo, tire muitas fotos, mas cuidado para não atrapalhar o fotografo;",
+        "E não menos importante, divirta-se muito com a gente nessa data tão importante",
           ].map((text, index) => (
             <li key={index} className="flex md:items-center justify-center">
               <div className="w-6 h-6 flex items-center justify-center mr-1">
