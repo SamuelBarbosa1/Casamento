@@ -29,7 +29,7 @@ export default function SaveTheDate() {
         <div className="flex justify-center">
           <AddToCalendarButton
             label="Adicionar ao calendário"
-            name="Casamento - Ludmilla e Jesse"
+            name="Casamento - Ludmilla e Jessé"
             options={["Google", "Outlook.com", "Apple", "Microsoft365"]}
             location="Brasilia"
             startDate="2024-09-08"

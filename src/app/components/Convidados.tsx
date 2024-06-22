@@ -2,6 +2,7 @@
 
 export default function Madrinhas() {
   return (
+    
     <div className="flex flex-col gap-4 py-10 items-center">
       <div className="w-full flex flex-col text-center gap-6">
         <h1
