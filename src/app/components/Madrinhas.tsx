@@ -13,10 +13,10 @@ export default function Madrinhas() {
         </h1>
         <p>
           <span className="text-gray-500">
-            Queremos que use o vestido que lhe agrade! Conforto é fundamental,
-            então escolha um vestido que você se sinta bem, na cor verde oliva.
-            Além disso, para calçado queremos te deixar mais confortavél ainda!
-            Então, optamos pelo uso de tenis branco de sua preferencia.
+            Queremos que se sinta linda nesse dia, para tanto, fique
+            livre para escolher o modelo ideal para você; Pedimos
+            apenas que seja longo e siga a cartela de cores da nossa 
+            cerimônia!
           </span>
         </p>
       </div>
