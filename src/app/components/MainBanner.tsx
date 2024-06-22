@@ -1,4 +1,12 @@
+'use client';
+
+import React, { useEffect } from 'react';
+
 export default function MainBanner() {
+  useEffect(() => {
+    alert("Este site ficará ativo até o dia 10 de agosto. Após isso, o site será desativado.");
+  }, []);
+
   return (
     <div className="flex w-full h-[83vh]">
       <img
