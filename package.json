@@ -1,0 +1,45 @@
+{
+  "name": "dai-e-mateus",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/server": "^11.11.0",
+    "@mantine/carousel": "^6.0.10",
+    "@mantine/core": "^6.0.10",
+    "@mantine/form": "^6.0.16",
+    "@mantine/hooks": "^6.0.10",
+    "@mantine/next": "^6.0.10",
+    "@mercadopago/sdk-react": "^0.0.14",
+    "@tabler/icons": "^2.25.0",
+    "@tabler/icons-react": "^2.25.0",
+    "@types/node": "20.1.0",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "add-to-calendar-button": "^2.2.6",
+    "add-to-calendar-button-react": "^2.2.4",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "embla-carousel-react": "^7.1.0",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.1",
+    "firebase": "^10.0.0",
+    "mercadopago": "^1.5.17",
+    "next": "13.4.1",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "stripe": "^12.18.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/mercadopago": "^1.5.8"
+  }
+}
