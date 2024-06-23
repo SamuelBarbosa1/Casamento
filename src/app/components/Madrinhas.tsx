@@ -14,9 +14,8 @@ export default function Madrinhas() {
         <p>
           <span className="text-gray-500">
             Queremos que se sinta linda nesse dia, para tanto, fique
-            livre para escolher o modelo ideal para você; Pedimos
-            apenas que seja longo e siga a cartela de cores da nossa 
-            cerimônia!
+            livre para escolher o modelo ideal para você. Pedimos apenas que
+            seja longo e siga a cartela de cores da nossa cerimônia!
           </span>
         </p>
       </div>
@@ -24,8 +23,8 @@ export default function Madrinhas() {
         <Image
           mx="auto"
           radius="md"
-          width={450}
-          height={300}
+          width={350}
+          height={500}
           src="/assets/madrinhas-img.jpg"
         ></Image>
       </div>

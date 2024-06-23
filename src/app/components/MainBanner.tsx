@@ -4,7 +4,7 @@ import React, { useEffect } from 'react';
 
 export default function MainBanner() {
   useEffect(() => {
-    alert("Este site ficará ativo até o dia 10 de agosto. Após isso, o site será desativado.");
+    alert("Este site ficará ativo até o dia 10 de agosto. Após isso, o site será desativado.Por favor confirme a sua presença!");
   }, []);
 
   return (

@@ -14,7 +14,7 @@ export default function SaveTheDate() {
         </h1>
         <h2>
           <span className="text-gray-500 font-bold border-b border-1">
-            24 de novembro de 2023, às 16:30
+            08 de setembro de 2024, às 16:00
           </span>
         </h2>
         <p>
